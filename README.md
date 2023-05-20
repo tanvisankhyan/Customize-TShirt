@@ -25,9 +25,7 @@ I. SETUP
      
      >npm init -y
      >npm install cloudinary cors dotenv express mongoose nodemon openai
- 
-    
-     https://tshirt-customizer.vercel.app/
+
      
  III. Run the Program
     
