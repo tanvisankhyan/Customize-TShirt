@@ -3,7 +3,7 @@
 I. SETUP
    
     >npm create vite@latest -- --template react client
-   (create a new react application inside client folder)
+   (Create a new react application inside client folder)
 
    Install packages for the front end
  
